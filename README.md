@@ -1,5 +1,5 @@
-<h3>Howdy, how ya doing? 🙌</h3>
-<h4>Myself Zaib Shaikh 👋, Designer & Developer!</h4>
+<h2>Howdy, how ya doing? 🙌</h2>
+<h3>Myself Zaib Shaikh 👋, Designer & Developer!</h3>
 <ul>
 	<li>⚡ PCMR gang</li>
     <li>📫 Big ol tech fan</li>
