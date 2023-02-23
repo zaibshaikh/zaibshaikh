@@ -9,7 +9,6 @@
     <li>🌱 Enthusiast in Machine Learning and Artificial Intelligence.</li>
     <li>☕ I belive, a Perfect VS Code setup can be the ultimate solution for an easy developer life.</li>
 </ul>
-<br>
 <h3>🛠 Tech Stack</h3>
 <ul>
     <li>💻 Javascript | Node.js
