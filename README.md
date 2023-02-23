@@ -10,7 +10,6 @@
     <li>☕ I belive, a Perfect VS Code setup can be the ultimate solution for an easy developer life.</li>
 </ul>
 <br>
-<br>
 <h3>🛠 Tech Stack</h3>
 <ul>
     <li>💻 Javascript | Node.js
